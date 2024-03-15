@@ -1,4 +1,4 @@
-202302944 안수빈
+안수빈 202302944 컴퓨터공학부
 h = float(input("Enter the height of cylinder: "))
 r = float(input("Enter the radius of cylinder: "))
 pi = 3.1416

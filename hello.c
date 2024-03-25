@@ -1,4 +1,4 @@
-int mian()
+int main()
 {
 print("Hello World!\n")
 }

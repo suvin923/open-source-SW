@@ -5,3 +5,5 @@ r = float(input("Enter the radius of cylinder: "))
 pi = 3.1416
 tsa = 2*pi(r**2+r*h)
 print(tse)
+
+print("202302138 컴퓨터공학과 조민채")

@@ -4,4 +4,4 @@ Department of Computer Engineering
 suvin23
 Student number: 2023*****
 web design
-가나다라마바사아자차카
+가나다라마바사아자차
